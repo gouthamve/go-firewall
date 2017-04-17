@@ -1,0 +1,6 @@
+{
+  "interface": "eno1",
+  "rules": [{
+    "rule": "udp"
+  }]
+}
